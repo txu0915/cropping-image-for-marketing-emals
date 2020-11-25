@@ -1,0 +1,32 @@
+item {
+ id: 1
+ name: 'Accent Chairs'
+}
+item {
+ id: 2
+ name: 'Bookcases'
+}
+item {
+ id: 3
+ name: 'Chandeliers'
+}
+item {
+ id: 4
+ name: 'Dining Chairs'
+}
+item {
+ id: 5
+ name: 'Kitchen and Dining Tables'
+}
+item {
+ id: 6
+ name: 'Pendant Lights'
+}
+item {
+ id: 7
+ name: 'Sideboards and Buffets'
+}
+item {
+ id: 8
+ name: 'Vases'
+}

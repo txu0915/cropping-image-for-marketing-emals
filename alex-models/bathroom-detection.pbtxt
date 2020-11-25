@@ -1,0 +1,36 @@
+item {
+ id: 1
+ name: 'Bath Rugs and Mats'
+}
+item {
+ id: 2
+ name: 'Centerset Bathroom Sink Faucets'
+}
+item {
+ id: 3
+ name: 'Sconces'
+}
+item {
+ id: 4
+ name: 'Showerheads'
+}
+item {
+ id: 5
+ name: 'Single Handle Bathroom Sink Faucets'
+}
+item {
+ id: 6
+ name: 'Toilet Bowls'
+}
+item {
+ id: 7
+ name: 'Vanities with Tops'
+}
+item {
+ id: 8
+ name: 'Vanity Mirrors'
+}
+item {
+ id: 9
+ name: 'Widespread Bathroom Sink Faucets'
+}

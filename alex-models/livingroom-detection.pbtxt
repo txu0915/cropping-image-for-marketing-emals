@@ -1,0 +1,44 @@
+item {
+ id: 1
+ name: 'Accent Chairs'
+}
+item {
+ id: 2
+ name: 'Area Rugs'
+}
+item {
+ id: 3
+ name: 'Coffee Tables'
+}
+item {
+ id: 4
+ name: 'Console Tables'
+}
+item {
+ id: 5
+ name: 'End Tables'
+}
+item {
+ id: 6
+ name: 'Floor Lamps'
+}
+item {
+ id: 7
+ name: 'Ottomans'
+}
+item {
+ id: 8
+ name: 'Sofas and Loveseats'
+}
+item {
+ id: 9
+ name: 'Table Lamps'
+}
+item {
+ id: 10
+ name: 'Throw Pillows'
+}
+item {
+ id: 11
+ name: 'Vases'
+}

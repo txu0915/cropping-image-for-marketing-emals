@@ -1,0 +1,44 @@
+item {
+ id: 1
+ name: 'Accent Chairs'
+}
+item {
+ id: 2
+ name: 'Bedroom Benches'
+}
+item {
+ id: 3
+ name: 'Beds and Headboards'
+}
+item {
+ id: 4
+ name: 'Bookcases'
+}
+item {
+ id: 5
+ name: 'Dressers and Chests'
+}
+item {
+ id: 6
+ name: 'Flush Mount Lights'
+}
+item {
+ id: 7
+ name: 'Nightstands'
+}
+item {
+ id: 8
+ name: 'Ottomans'
+}
+item {
+ id: 9
+ name: 'Table Lamps'
+}
+item {
+ id: 10
+ name: 'Throw Pillows'
+}
+item {
+ id: 11
+ name: 'Wall Mirrors'
+}

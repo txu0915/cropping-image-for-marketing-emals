@@ -1,0 +1,44 @@
+item {
+ id: 1
+ name: 'Bar Stools'
+}
+item {
+ id: 2
+ name: 'Built-in Dishwasher'
+}
+item {
+ id: 3
+ name: 'Electric Or Gas Range'
+}
+item {
+ id: 4
+ name: 'French Door Refrigerator'
+}
+item {
+ id: 5
+ name: 'Knife Set'
+}
+item {
+ id: 6
+ name: 'Over the Range Microwave'
+}
+item {
+ id: 7
+ name: 'Pendant Lights'
+}
+item {
+ id: 8
+ name: 'Pull Down Faucet'
+}
+item {
+ id: 9
+ name: 'Tea Kettle'
+}
+item {
+ id: 10
+ name: 'Wall Mount Range Hood'
+}
+item {
+ id: 11
+ name: 'Wall Oven'
+}

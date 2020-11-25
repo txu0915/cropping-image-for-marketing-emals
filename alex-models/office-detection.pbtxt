@@ -1,0 +1,28 @@
+item {
+ id: 1
+ name: 'Bookcases'
+}
+item {
+ id: 2
+ name: 'Desk Lamps'
+}
+item {
+ id: 3
+ name: 'Desks'
+}
+item {
+ id: 4
+ name: 'Dining Chairs'
+}
+item {
+ id: 5
+ name: 'File Cabinets'
+}
+item {
+ id: 6
+ name: 'Office Chairs'
+}
+item {
+ id: 7
+ name: 'Office Storage Cabinets'
+}

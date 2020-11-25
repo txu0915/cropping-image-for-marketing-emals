@@ -1,0 +1,48 @@
+item {
+ id: 1
+ name: 'Market Umbrella'
+}
+item {
+ id: 2
+ name: 'Outdoor Bench'
+}
+item {
+ id: 3
+ name: 'Outdoor Chaise Lounge'
+}
+item {
+ id: 4
+ name: 'Outdoor Coffee Table'
+}
+item {
+ id: 5
+ name: 'Outdoor Dining Chair'
+}
+item {
+ id: 6
+ name: 'Outdoor Lounge Chair'
+}
+item {
+ id: 7
+ name: 'Outdoor Pillow'
+}
+item {
+ id: 8
+ name: 'Outdoor Rug'
+}
+item {
+ id: 9
+ name: 'Outdoor Side Table'
+}
+item {
+ id: 10
+ name: 'Outdoor Sofa'
+}
+item {
+ id: 11
+ name: 'Patio Dining Table'
+}
+item {
+ id: 12
+ name: 'Planter'
+}
